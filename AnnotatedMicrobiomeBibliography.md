@@ -1,5 +1,16 @@
 # Annotated microbiome bibliography
 
+## Cancer and the microbiome
+
+### Gut microbiome influences efficacy of PD-1-based immunotherapy against epithelial tumors.
+
+Routy B, Le Chatelier E, Derosa L, Duong CPM, Alou MT, Daillère R, Fluckiger A, Messaoudene M, Rauber C, Roberti MP, Fidelle M, Flament C, Poirier-Colame V, Opolon P, Klein C, Iribarren K, Mondragón L, Jacquelot N, Qu B, Ferrere G, Clémenson C, Mezquita L, Masip JR, Naltet C, Brosseau S, Kaderbhai C, Richard C, Rizvi H, Levenez F, Galleron N, Quinquis B, Pons N, Ryffel B, Minard-Colin V, Gonin P, Soria JC, Deutsch E, Loriot Y, Ghiringhelli F, Zalcman G, Goldwasser F, Escudier B, Hellmann MD, Eggermont A, Raoult D, Albiges L, Kroemer G, Zitvogel L. 2018. Gut microbiome influences efficacy of PD-1-based immunotherapy against epithelial tumors. Science. 359:91-97. doi: 10.1126/science.aan3706
+(http://science.sciencemag.org.acces.bibl.ulaval.ca/content/sci/359/6371/91)
+
+The authors show that intake of antibiotics during cancer treatment could negatively influence outcome. They find dans Akkermansia could be linked to success of therapy.
+
+>hey profiled samples from patients with lung and kidney cancers and found that nonresponding patients had low levels of the bacterium Akkermansia muciniphila. Oral supplementation of the bacteria to antibiotic-treated mice restored the response to immunotherapy. 
+
 ## Colonization
 
 ### Sieving through gut models of colonization resistance
