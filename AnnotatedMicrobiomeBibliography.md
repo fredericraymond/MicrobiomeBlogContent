@@ -2,7 +2,7 @@
 
 ## Colonization
 
-###Sieving through gut models of colonization resistance
+### Sieving through gut models of colonization resistance
 Caroline Mullineaux-Sanders, Jotham Suez, Eran Elinav & Gad Frankel. 2018 Sieving through gut models of colonization resistance. Nature Microbiology. 3:132–140 
 doi:10.1038/s41564-017-0095-1
 (https://www.nature.com/articles/s41564-017-0095-1)
