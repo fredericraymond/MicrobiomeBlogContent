@@ -9,7 +9,7 @@ Routy B, Le Chatelier E, Derosa L, Duong CPM, Alou MT, Daillère R, Fluckiger A,
 
 The authors show that intake of antibiotics during cancer treatment could negatively influence outcome. They find dans Akkermansia could be linked to success of therapy.
 
->hey profiled samples from patients with lung and kidney cancers and found that nonresponding patients had low levels of the bacterium Akkermansia muciniphila. Oral supplementation of the bacteria to antibiotic-treated mice restored the response to immunotherapy. 
+> They profiled samples from patients with lung and kidney cancers and found that nonresponding patients had low levels of the bacterium Akkermansia muciniphila. Oral supplementation of the bacteria to antibiotic-treated mice restored the response to immunotherapy. 
 
 ## Colonization
 
@@ -25,7 +25,7 @@ This article reviews the difficulties in colonizing the microbiome by pathogens.
 4. Inflammation may favor pathogen colonization.
 Although they mention probiotics, the focus of the paper is on pathogens.
 
-> Reports from germ-free and antibiotic-treated mice may suggest a more passive form of colonization resistance in which antibiotics, rather than diminishing the presence of actively protective commensals, could be disrupting the microbial ecosystem in a manner that pathogens are able to exploit
+> Reports from germ-free and antibiotic-treated mice may suggest a more passive form of colonization resistance in which antibiotics, rather than diminishing the presence of actively protective commensals, could be disrupting the microbial ecosystem in a manner that pathogens are able to exploit.
 
 ## The microbiome and food
 
