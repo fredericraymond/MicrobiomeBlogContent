@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+title: Life is not a pure culture
+description: >- # this means to ignore newlines until "baseurl:"
+Frédéric Raymond is a bioinformatics expert specialized in microbiology and the microbiome. His research aims to bring together the study of microbial communities, the specificities of the bacteria they contain and their relationship with the phenotype of the host, especially in the context of the endocannabonoid system and metabolic health. 
+twitter_username: fredericraymond
+github_username:  fredericraymond
