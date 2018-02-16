@@ -5,3 +5,8 @@ Millions of bacteria live within our body. Their presence is essential for our w
 [Google Scholar Profile](https://scholar.google.ca/citations?user=Ulexpm0AAAAJ&hl)
 
 [Annotated bibliography of microbiome papers](AnnotatedMicrobiomeBibliography.md)
+
+Associated with the Canada Excellence Research Chair on Microbiome-Endocannabinoidome Axis in Metabolic Health (CERC-MEND)
+Institut sur la nutrition et les aliments fonctionnels
+École de nutrition, Faculté des sciences de l'agriculture et de l'alimentation
+Université Laval, Quebec City, Canada
