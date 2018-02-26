@@ -38,6 +38,15 @@ The authors describe how they engineered a commensal Escherichia coli to process
 
 > The engineered commensal Escherichia coli bound specifically to the heparan sulphate proteoglycan on colorectal cancer cells and secreted the enzyme myrosinase to transform host-ingested glucosinolates—natural components of cruciferous vegetables—to sulphoraphane, an organic small molecule with known anticancer activity. The engineered microbes coupled with glucosinolates resulted in >95% proliferation inhibition of murine, human and colorectal adenocarcinoma cell lines in vitro. 
 
+### Specific substrate-driven changes in human faecal microbiota composition contrast with functional redundancy in short-chain fatty acid production
+Reichardt N, Vollmer M, Holtrop G, Farquharson FM, Wefers D, Bunzel M, Duncan SH, Drew JE, Williams LM, Milligan G, Preston T, Morrison D, Flint HJ, Louis P. Specific substrate-driven changes in human faecal microbiota composition contrast with functional redundancy in short-chain fatty acid production. ISME J. 2018 Feb;12(2):610-622.
+doi: 10.1038/ismej.2017.196. Epub 2017 Dec 1.
+https://www.nature.com/articles/ismej2017196
+
+The authors use culture of feces to evaluate the impact on the gut microbiota of 15 substrastes on fecal microbiota and the production of short-chain fatty acids such as butyrate and propionate. 
+
+> SCFA production was surprisingly reproducible for the different NDCs investigated here compared with the high microbiota variation between donors, which indicated that different OTUs contributed to NDC breakdown and SCFA formation in the different donors.
+
 ## Antibiotics and the microbiome
 
 ### Protection of the Human Gut Microbiome From Antibiotics.
