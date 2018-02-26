@@ -37,3 +37,14 @@ https://www.nature.com/articles/s41551-017-0181-y
 The authors describe how they engineered a commensal Escherichia coli to process molecules from brocoli and transform it into a cancer inhibiting molecule. [The paper is well explained this Science Translational medecine article] (http://stm.sciencemag.org/content/10/428/eaar7534.full) 
 
 > The engineered commensal Escherichia coli bound specifically to the heparan sulphate proteoglycan on colorectal cancer cells and secreted the enzyme myrosinase to transform host-ingested glucosinolates—natural components of cruciferous vegetables—to sulphoraphane, an organic small molecule with known anticancer activity. The engineered microbes coupled with glucosinolates resulted in >95% proliferation inhibition of murine, human and colorectal adenocarcinoma cell lines in vitro. 
+
+## Antibiotics and the microbiome
+
+### Protection of the Human Gut Microbiome From Antibiotics.
+de Gunzburg J, Ghozlane A, Ducher A, Le Chatelier E, Duval X, Ruppé E, Armand-Lefevre L, Sablier-Gallis F, Burdet C, Alavoine L, Chachaty E, Augustin V, Varastet M, Levenez F, Kennedy S, Pons N, Mentré F, Andremont A. Protection of the Human Gut Microbiome From Antibiotics. J Infect Dis. 2018 Jan 30;217(4):628-636.
+doi: 10.1093/infdis/jix604.
+https://academic.oup.com/jid/article/217/4/628/4653556
+
+The authors describe the use of AV132 (adsorbent, activated charcoal) to reduce the side effects of antibiotic treatment on the gut microbiome. This kind of approach would be usefull to determine if the effect of a drug is caused by a drug or if it is mediated by microbiota.
+
+> Our most important result was that in human volunteers treated with a clinical 5-day course of oral MXF, DAV132 spared the intestinal microbiome from exposure to free MXF by >99%, without affecting the plasma pharmacokinetics of the antibiotic or causing any serious adverse effects. 
