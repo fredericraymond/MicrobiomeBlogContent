@@ -47,6 +47,14 @@ The authors use culture of feces to evaluate the impact on the gut microbiota of
 
 > SCFA production was surprisingly reproducible for the different NDCs investigated here compared with the high microbiota variation between donors, which indicated that different OTUs contributed to NDC breakdown and SCFA formation in the different donors.
 
+### Gender-based differences in host behavior and gut microbiota composition in response to high fat diet and stress in a mouse model.
+Bridgewater LC, Zhang C, Wu Y, Hu W, Zhang Q, Wang J, Li S, Zhao L. Gender-based differences in host behavior and gut microbiota composition in response to high fat diet and stress in a mouse model. Sci Rep. 2017 Sep 7;7(1):10776. doi: 10.1038/s41598-017-11069-4.
+https://www.nature.com/articles/s41598-017-11069-4
+
+The authors found differences in the microbiome of male and female mice. Strikingly, they observed that stress affected the female microbiome, and not male microbiome. 
+
+>Male mice were more vulnerable to the anxiogenic effects of the high fat diet, and obese male mice showed decreased locomotion activity in response to stress whereas obese female mice did not. In females, stress caused the gut microbiota of lean mice to more closely resemble that of obese mice.
+
 ## Antibiotics and the microbiome
 
 ### Protection of the Human Gut Microbiome From Antibiotics.
